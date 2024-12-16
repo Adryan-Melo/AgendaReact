@@ -30,6 +30,7 @@ font-size: 18px;
 color: black;
 border: none;
 background-color: transparent;
+width: 100%;
     &:focus {
         outline: 1px solid #007bff9d ;
         outline-style:line;
