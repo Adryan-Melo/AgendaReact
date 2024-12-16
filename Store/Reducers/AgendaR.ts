@@ -5,9 +5,11 @@ const agendaSlice = createSlice({
     name: 'agenda',
     initialState: {
         itens: [
-                new Agenda('Pedro Alves', 'Família', '9741321649', 'Pedro@email.com', 1),
+                new Agenda('Adryan Melo DEV ', 'Trabalho', '61991141077', 'Adryanrodrigues42@gmail.com', 1),
 
-                new Agenda('Maria Alves', 'Trabalho', '9841321649', 'Maria@email.com', 2)
+                new Agenda('Pedro Alves', 'Família', '9741321649', 'Pedro@email.com', 2),
+
+                new Agenda('Maria Alves', 'Trabalho', '9841321649', 'Maria@email.com', 3)
             ]
             
     },
